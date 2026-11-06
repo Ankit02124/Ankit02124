@@ -28,10 +28,10 @@
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Ankit02124/AquaSense"><b>AquaSense</b></a><br>
-      Fish pond monitor designed for the Arduino UNO Q (firmware, app and model done; hardware not built yet). YOLOv8n watches the fish, and the STM32 switches on the water quality probes only when their behaviour changes.<br><br>
+      Fish pond monitor designed for the Arduino UNO Q (firmware, app and model done; hardware not built yet). YOLOv8n watches the fish, and the STM32 switches on the water quality probes only when their behaviour changes. Readings and alerts go out over MQTT to a small web dashboard (tested on a PC with a local broker).<br><br>
       <a href="https://github.com/Ankit02124/AquaSense"><img src="https://raw.githubusercontent.com/Ankit02124/AquaSense/main/docs/images/demo.gif" height="230" alt="AquaSense fish detection"></a><br><sub>Brackish dataset footage, not a real pond</sub><br><br>
-      0.939 mAP@0.5 at 416 px (Brackish test set) &middot; DO, pH, salinity, turbidity, temperature<br>
-      <code>YOLOv8</code> <code>ONNX Runtime</code> <code>Arduino UNO Q</code> <code>STM32</code> <code>Zephyr</code> <code>C++</code>
+      0.912 mAP@0.5 for fish at 416 px (Brackish test set) &middot; DO, pH, salinity, turbidity, temperature<br>
+      <code>YOLOv8</code> <code>ONNX Runtime</code> <code>Arduino UNO Q</code> <code>STM32</code> <code>Arduino core (Zephyr)</code> <code>MQTT</code> <code>C++</code>
     </td>
   </tr>
   <tr>
