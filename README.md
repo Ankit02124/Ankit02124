@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3500&pause=900&color=2F81F7&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Ankit+Choudhury;Computer+vision+on+edge+devices;YOLOv8+on+Raspberry+Pi+and+Arduino+UNO+Q;Data+pipelines+and+Power+BI+dashboards" alt="Hi, I'm Ankit Choudhury">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3500&pause=900&color=2F81F7&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Ankit+Choudhury;AI%2FML+and+IoT+developer;Computer+vision+on+edge+devices;Data+pipelines+and+Power+BI+dashboards" alt="Hi, I'm Ankit Choudhury">
 
 <a href="https://www.linkedin.com/in/ankit-choudhury-a91bb330a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:ankit02122004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
@@ -11,7 +11,7 @@
 ### About me
 
 - B.Tech in Computer Science and Engineering at XIM University, Bhubaneswar (2023-2027).
-- I build computer vision systems that run on small hardware: a crop-spraying hexacopter with a Raspberry Pi 4, and a fish pond monitor on the Arduino UNO Q.
+- I work on AI/ML and IoT: computer vision models that run on small hardware and connect to sensors and actuators, like a crop-spraying hexacopter and a fish pond monitor.
 - Internships in software development (ESP32, BLE, sensor data apps) at Unite Trades & Technologies, and in data analysis (SQL ETL, Python forecasting, Power BI) at Belij Hydro Power.
 - Coordinator of RobogeniX, the robotics and IoT club of XIM University.
 - Looking for internships and entry-level roles in computer vision, machine learning, embedded AI and data.
@@ -46,9 +46,20 @@
 
 ### Tech stack
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,mysql,postgres,sqlite,pytorch,tensorflow,opencv,sklearn,raspberrypi,arduino,linux,git,githubactions,aws,vscode&perline=10" alt="tech stack">
+**AI / ML**
 
-Also: Ultralytics YOLOv8, ONNX Runtime, OpenVINO, LangChain, ChromaDB, Streamlit, Pandas, Power BI, Tableau, STM32, ESP32, Pixhawk (ArduPilot), MAVLink
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn" alt="AI and ML tools"><br>
+Ultralytics YOLOv8, ONNX Runtime, OpenVINO, LangChain, ChromaDB, Mistral AI, Streamlit
+
+**IoT and embedded**
+
+<img src="https://skillicons.dev/icons?i=raspberrypi,arduino,c,cpp,linux" alt="IoT and embedded tools"><br>
+STM32, ESP32, Pixhawk (ArduPilot), MAVLink, UART, I2C, BLE, sensors
+
+**Data and tools**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,java,js,git,githubactions,aws,vscode" alt="data and developer tools"><br>
+Pandas, Power BI, Tableau, Excel
 
 ### Achievements
 
