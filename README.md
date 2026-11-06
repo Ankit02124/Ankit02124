@@ -4,14 +4,13 @@
 
 <a href="https://www.linkedin.com/in/ankit-choudhury-a91bb330a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:ankit02122004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://leetcode.com/u/m3b47unXAK/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
 
 </div>
 
 ### About me
 
 - B.Tech in Computer Science and Engineering at XIM University, Bhubaneswar (2023-2027).
-- I work on AI/ML and IoT: computer vision models that run on small hardware and connect to sensors and actuators, like a crop-spraying hexacopter and a fish pond monitor.
+- I work on AI/ML and IoT: computer vision on small hardware connected to sensors and actuators, like a crop-spraying hexacopter built with Ananya Verma, and a fish pond monitor designed for the Arduino UNO Q.
 - Internships in software development (ESP32, BLE, sensor data apps) at Unite Trades & Technologies, and in data analysis (SQL ETL, Python forecasting, Power BI) at Belij Hydro Power.
 - Coordinator of RobogeniX, the robotics and IoT club of XIM University.
 - Looking for internships and entry-level roles in computer vision, machine learning, embedded AI and data.
@@ -22,23 +21,23 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/Ankit02124/AgroneX"><b>AgroneX</b></a><br>
-      Hexacopter for precision pesticide spraying. YOLOv8n on a Raspberry Pi 4 finds diseased crops, and the Pixhawk sprays only those spots.<br><br>
+      Hexacopter for precision pesticide spraying, built with Ananya Verma. YOLOv8n on a Raspberry Pi 4 finds diseased crops, and the Pixhawk sprays only those spots.<br><br>
       <a href="https://github.com/Ankit02124/AgroneX"><img src="https://raw.githubusercontent.com/Ankit02124/AgroneX/main/docs/images/hexacopter_flight.jpg" height="230" alt="AgroneX in flight"></a><br><br>
-      72.3% mAP@0.5 &middot; 10.4 FPS on the Movidius stick &middot; 1st at ICAIET 2025, 3rd at ETIA 2025<br>
+      72.3% mAP@0.5 &middot; 10.4 FPS on the Movidius stick &middot; AgroneX team: 1st at ICAIET 2025, 3rd at ETIA 2025<br>
       <code>YOLOv8</code> <code>PlantDoc</code> <code>Raspberry Pi 4</code> <code>OpenVINO</code> <code>ArduPilot</code> <code>MAVLink</code>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Ankit02124/AquaSense"><b>AquaSense</b></a><br>
-      Fish pond monitor on the Arduino UNO Q. YOLOv8n watches the fish, and the STM32 switches on the water quality probes only when their behaviour changes.<br><br>
-      <a href="https://github.com/Ankit02124/AquaSense"><img src="https://raw.githubusercontent.com/Ankit02124/AquaSense/main/docs/images/demo.gif" height="230" alt="AquaSense fish detection"></a><br><br>
-      0.939 mAP@0.5 at 416 px &middot; DO, pH, salinity, turbidity, temperature<br>
+      Fish pond monitor designed for the Arduino UNO Q (firmware, app and model done; hardware not built yet). YOLOv8n watches the fish, and the STM32 switches on the water quality probes only when their behaviour changes.<br><br>
+      <a href="https://github.com/Ankit02124/AquaSense"><img src="https://raw.githubusercontent.com/Ankit02124/AquaSense/main/docs/images/demo.gif" height="230" alt="AquaSense fish detection"></a><br><sub>Brackish dataset footage, not a real pond</sub><br><br>
+      0.939 mAP@0.5 at 416 px (Brackish test set) &middot; DO, pH, salinity, turbidity, temperature<br>
       <code>YOLOv8</code> <code>ONNX Runtime</code> <code>Arduino UNO Q</code> <code>STM32</code> <code>Zephyr</code> <code>C++</code>
     </td>
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <a href="https://github.com/Ankit02124/Our_University_Chatbot"><b>XIM University Chatbot</b></a><br>
-      RAG chatbot that answers student questions from the university's policy documents and shows the source passages with each answer.<br>
+      <a href="https://github.com/Ankit02124/Our_University_Chatbot"><b>XIMI: XIM University Chatbot</b></a><br>
+      B.Tech thesis with Ananya Verma and Suraj Maharana, under Dr. Sourav Mandal. RAG chatbot that answers student questions from the university's policy documents and shows the source passages with each answer.<br>
       <code>LangChain</code> <code>Mistral AI</code> <code>ChromaDB</code> <code>Streamlit</code>
     </td>
   </tr>
@@ -63,9 +62,9 @@ Pandas, Power BI, Tableau, Excel
 
 ### Achievements
 
-- 1st place, ICAIET 2025 project exhibition, for AgroneX
-- 3rd prize, ETIA 2025 Industrial Conclave Student Expo, for AgroneX
-- AWS Cloud Practitioner Essentials &middot; NPTEL Data Analytics with Python (Elite)
+- 1st place, ICAIET 2025 project exhibition, for AgroneX, as part of the AgroneX team
+- 3rd prize, ETIA 2025 Industrial Conclave Student Expo, for AgroneX, as part of the AgroneX team
+- AWS Cloud Practitioner Essentials (training course) &middot; NPTEL Data Analytics with Python (Elite)
 
 ### GitHub activity
 
