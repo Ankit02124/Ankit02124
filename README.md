@@ -58,7 +58,7 @@ STM32, ESP32, Pixhawk (ArduPilot), MAVLink, UART, I2C, BLE, sensors
 **Data and tools**
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,java,js,git,githubactions,aws,vscode" alt="data and developer tools"><br>
-Pandas, Power BI, Tableau, Excel
+Pandas, Power BI, Excel
 
 ### Achievements
 
