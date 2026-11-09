@@ -62,8 +62,8 @@ Pandas, Power BI, Excel
 
 ### Achievements
 
-- 1st place, ICAIET 2025 project exhibition, for AgroneX, as part of the AgroneX team
-- 3rd prize, ETIA 2025 Industrial Conclave Student Expo, for AgroneX, as part of the AgroneX team
+- 1st place, ICAIET 2025 project exhibition, for AgroneX, as part of the AgroneX team (Team Lead)
+- 3rd prize, ETIA 2025 Industrial Conclave Student Expo, for AgroneX, as part of the AgroneX team (Team Lead)
 - AWS Cloud Practitioner Essentials (training course) &middot; NPTEL Data Analytics with Python (Elite)
 
 ### GitHub activity
